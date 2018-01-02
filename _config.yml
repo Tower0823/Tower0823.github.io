@@ -11,7 +11,7 @@ github_repo: "https://github.com/Tower0823/Tower0823.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Stay Foolish!"
+sidebar-about-description: "花臂或刺头，并不能说明我所有"
 sidebar-avatar: /img/2.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
