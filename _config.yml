@@ -1,7 +1,7 @@
 # Site settings
 title: Tower Blog
 SEOTitle: LJ Memo | by Tower
-header-img: img/post-bg-desk.jpg
+header-img: img/邻居2.jpg
 email: 1074347272@qq.com
 description: "直来直去不造作深藏一生追求"
 keyword: "C++, python, tensorflow, Mac, Matlab, Machine Learning, Deep Learning, Life, Travel, Food, Summary"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/Tower0823/Tower0823.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Stay Foolish!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/2.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
