@@ -5,7 +5,7 @@ subtitle:   IP2空间的图像校正与模拟贴图
 date:       2018-01-04
 author:     Tower
 header-img: img/geometry3.png
-catalog: true
+catalog: false
 tags:
     - Python - Matlab
 ---
