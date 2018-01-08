@@ -1,5 +1,4 @@
-------
-
+---
 layout:     post
 title:      射影变换
 subtitle:   IP2空间的图像校正与模拟贴图
@@ -8,13 +7,9 @@ author:     Tower
 header-img: img/geo2-bg.png
 catalog: true
 tags:
-
-```
-- Python 
-- Matlab
-```
-
-------
+    - Python 
+    - Matlab
+---
 
 # ======== 2018 新 年 分 割 线 ========
 
@@ -176,3 +171,4 @@ end
 
 ![](http://ww1.sinaimg.cn/large/8ac5d842ly1fn6od85646j207705e747.jpg)
 ![](http://ww1.sinaimg.cn/large/8ac5d842ly1fn6odg0qcdj207705e749.jpg)
+
