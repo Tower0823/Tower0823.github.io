@@ -18,7 +18,7 @@ tags:
 
 > 为了加快自己写周总结的速度，只能刻意练习了╮(╯▽╰)╭
 
-
+![](http://ww1.sinaimg.cn/large/8ac5d842ly1fn9fvbp3lqj20fa04sgnl.jpg)
 ### 射影变换
 
 由照相机的小孔成像原理，当成像平面与所摄物体所在平面不平行时，产生的就是IP2中的射影变换。
@@ -40,7 +40,6 @@ tags:
 - 原图
 
 ![](http://ww1.sinaimg.cn/large/8ac5d842ly1fn6obegq5uj20qo0k0jtc.jpg)
-![](http://ww1.sinaimg.cn/large/8ac5d842ly1fn6oejm0acj20v908l46b.jpg)
 
 ```
 import cv2
