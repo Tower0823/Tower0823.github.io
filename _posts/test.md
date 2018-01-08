@@ -20,7 +20,7 @@ tags:
 
 
 ### 射影变换
-![](http://ww1.sinaimg.cn/large/8ac5d842ly1fn6oejm0acj20v908l46b.jpg)
+
 由照相机的小孔成像原理，当成像平面与所摄物体所在平面不平行时，产生的就是IP2中的射影变换。
 二维射影平面内的一切射影变换本质都为3x3可逆阵，同时考虑到单应性，变换矩阵的自由度为8，只需4组对应点的x,y坐标值即可求。求解变换矩阵时可应用矩阵的SVD（奇异值分解）。图像校正的程序如下，需要注意的是：
 
@@ -40,6 +40,7 @@ tags:
 - 原图
 
 ![](http://ww1.sinaimg.cn/large/8ac5d842ly1fn6obegq5uj20qo0k0jtc.jpg)
+![](http://ww1.sinaimg.cn/large/8ac5d842ly1fn6oejm0acj20v908l46b.jpg)
 
 ```
 import cv2
