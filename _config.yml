@@ -18,11 +18,11 @@ sidebar-avatar: /img/2.jpg      # use absolute URL, seeing it's used in both `/`
 
 # SNS settings
 RSS: false
-weibo_username: hi好饭不怕晚de
-zhihu_username:    
-github_username:    
-facebook_username:  
-jianshu_username:   
+weibo_username:   hi好饭不怕晚de
+#zhihu_username:    
+#github_username:    
+#facebook_username:  
+#jianshu_username:   
 #twitter_username:   qiubaiying
 
 
