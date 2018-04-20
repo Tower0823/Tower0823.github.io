@@ -3,7 +3,7 @@ title: Tower Memo
 SEOTitle: LJ Memo | by Tower
 header-img: img/派大星2.jpg
 email: 1074347272@qq.com
-description: "直来直去不造作深藏一生追求"
+description: "玩物得志"
 keyword: "C++, python, tensorflow, Mac, Matlab, Machine Learning, Deep Learning, Life, Travel, Food, Summary"
 url: "http://Tower0823.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,14 +11,14 @@ github_repo: "https://github.com/Tower0823/Tower0823.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "花臂或刺头，并不能说明我所有"
+sidebar-about-description: "现在当马仔，以后铜锣湾就只有一个塔哥"
 sidebar-avatar: /img/2.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+weibo_username:     hi好饭不怕晚de
 zhihu_username:    
 github_username:    
 facebook_username:  
