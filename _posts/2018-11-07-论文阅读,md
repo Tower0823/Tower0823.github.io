@@ -4,11 +4,12 @@ title:      语义分割论文阅读
 subtitle:   Segnet for semantic segmantation
 date:       2018-11-07
 author:     Tower
-header-img: img/bg-18-11-07.png
+header-img: img/bg-01.jpg
 catalog:    true
 tags:
     - 论文阅读
 ---
+
 # FCN & SegNet & U-Net
 
 语义分割大多数方法都是基于FCN改进的
@@ -20,7 +21,6 @@ tags:
 - Deconv  上采样
 - centor crop + skip +逐像素相加   融合~~语义和细节~~特征
 
-------
 
 # Segnet
 
@@ -121,7 +121,7 @@ tags:
 - 损失函数加入像素点到所在类边界相对距离的判断，对于离边界近的像素误判的惩罚更大
 - 由于医学图像较大，采用裁图训练测试，并适当扩大边界，输出小于输入，但输入对于原图是有重叠的，以此保证原图被覆盖
 
-------
+
 
 ## Appendix
 
