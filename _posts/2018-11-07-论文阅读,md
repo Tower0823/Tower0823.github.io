@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      语义分割论文阅读
-subtitle:   Segnet:A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
+subtitle:   Segnet for semantic segmantation
 date:       2018-11-07
 author:     Tower
 header-img: img/bg-18-11-07.png
